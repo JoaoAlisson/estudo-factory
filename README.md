@@ -1,2 +1,2 @@
 # estudo-factory
-Implemantação do design pattern Factory em Java.
+Implementação do design pattern Factory em Java.
